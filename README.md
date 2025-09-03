@@ -29,5 +29,5 @@ This is the **backend service** of the Healthcare & Wellness Management System b
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/healthcare-backend.git
-cd healthcare-backend
+git clone https://github.com/Borra-Karunakar/healthcare-backend.git
+
